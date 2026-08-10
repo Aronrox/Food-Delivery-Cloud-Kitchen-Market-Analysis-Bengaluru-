@@ -1,0 +1,9 @@
+food-delivery-market-analysis/
+│
+├── README.md                 # The main presentation of your project
+├── data/                     # Folder for your CSV files (raw and cleaned)
+├── scripts/
+│   ├── 01_data_cleaning.py   # Python script for pandas cleaning
+│   └── 02_sql_analysis.sql   # SQL queries for insights
+├── visuals/                  # Folder for dashboard screenshots
+└── requirements.txt          # Python libraries needed (pandas, numpy)
